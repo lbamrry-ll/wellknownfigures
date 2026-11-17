@@ -1,0 +1,6 @@
+{
+  "name": "文思百川：DSE中文議論文人物典藏與立論工坊",
+  "description": "專為香港中學文憑試（HKDSE）中文科卷二議論文設計的人物事蹟、名言記憶與正反立論教學平台，涵蓋六大核心主題與歷屆試題一例多用指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
